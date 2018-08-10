@@ -1,0 +1,10 @@
+{
+	"type":"crafting_shapeless",
+	"ingredients":[
+		{"tag":"customrecipes:sponges"},
+		{"tag":"customrecipes:sponges"},
+		{"tag":"customrecipes:sponges"},
+		{"tag":"customrecipes:sponges"},
+		{"item":"minecraft:dandelion_yellow"}],
+	"result":{"item":"minecraft:horn_coral_block","count":4}
+}

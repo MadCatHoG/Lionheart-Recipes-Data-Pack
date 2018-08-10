@@ -1,0 +1,9 @@
+{
+	"type":"crafting_shaped",
+	"pattern":["ttt","tdt","ttt"],
+	"key":{
+		"t":{"tag":"customrecipes:terracotta"},
+		"d":{"item":"minecraft:cactus_green"}
+	},
+	"result":{"item":"minecraft:green_terracotta","count":8}
+}

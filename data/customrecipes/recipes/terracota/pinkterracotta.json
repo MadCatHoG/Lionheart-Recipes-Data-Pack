@@ -1,0 +1,9 @@
+{
+	"type":"crafting_shaped",
+	"pattern":["ttt","tdt","ttt"],
+	"key":{
+		"t":{"tag":"customrecipes:terracotta"},
+		"d":{"item":"minecraft:pink_dye"}
+	},
+	"result":{"item":"minecraft:pink_terracotta","count":8}
+}

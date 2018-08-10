@@ -1,0 +1,9 @@
+{
+	"type":"crafting_shaped",
+	"pattern":["ttt","tdt","ttt"],
+	"key":{
+		"t":{"tag":"customrecipes:glass"},
+		"d":{"item":"minecraft:lapis_lazuli"}
+	},
+	"result":{"item":"minecraft:blue_stained_glass","count":8}
+}

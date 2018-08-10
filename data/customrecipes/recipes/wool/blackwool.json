@@ -1,0 +1,8 @@
+{
+	"type":"crafting_shapeless",
+	"ingredients":[
+		{"tag":"minecraft:wool"},
+		{"item":"minecraft:ink_sac"}
+	],
+	"result":{"item":"minecraft:black_wool"}
+}

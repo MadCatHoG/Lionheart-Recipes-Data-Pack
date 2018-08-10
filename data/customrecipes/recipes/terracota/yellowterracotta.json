@@ -1,0 +1,9 @@
+{
+	"type":"crafting_shaped",
+	"pattern":["ttt","tdt","ttt"],
+	"key":{
+		"t":{"tag":"customrecipes:terracotta"},
+		"d":{"item":"minecraft:dandelion_yellow"}
+	},
+	"result":{"item":"minecraft:yellow_terracotta","count":8}
+}

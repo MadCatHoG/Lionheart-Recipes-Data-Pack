@@ -1,0 +1,9 @@
+{
+	"type":"crafting_shaped",
+	"pattern":["ttt","tdt","ttt"],
+	"key":{
+		"t":{"tag":"customrecipes:terracotta"},
+		"d":{"item":"minecraft:water_bucket"}
+	},
+	"result":{"item":"minecraft:terracotta","count":8}
+}

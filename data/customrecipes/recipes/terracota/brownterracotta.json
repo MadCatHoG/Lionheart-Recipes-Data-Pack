@@ -1,0 +1,9 @@
+{
+	"type":"crafting_shaped",
+	"pattern":["ttt","tdt","ttt"],
+	"key":{
+		"t":{"tag":"customrecipes:terracotta"},
+		"d":{"item":"minecraft:cocoa_beans"}
+	},
+	"result":{"item":"minecraft:brown_terracotta","count":8}
+}

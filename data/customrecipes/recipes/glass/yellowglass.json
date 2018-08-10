@@ -1,0 +1,9 @@
+{
+	"type":"crafting_shaped",
+	"pattern":["ttt","tdt","ttt"],
+	"key":{
+		"t":{"tag":"customrecipes:glass"},
+		"d":{"item":"minecraft:dandelion_yellow"}
+	},
+	"result":{"item":"minecraft:yellow_stained_glass","count":8}
+}

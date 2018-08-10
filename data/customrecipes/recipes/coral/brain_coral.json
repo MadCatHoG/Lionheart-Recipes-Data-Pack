@@ -1,0 +1,10 @@
+{
+	"type":"crafting_shapeless",
+	"ingredients":[
+		{"tag":"customrecipes:sponges"},
+		{"tag":"customrecipes:sponges"},
+		{"tag":"customrecipes:sponges"},
+		{"tag":"customrecipes:sponges"},
+		{"item":"minecraft:pink_dye"}],
+	"result":{"item":"minecraft:brain_coral_block","count":4}
+}

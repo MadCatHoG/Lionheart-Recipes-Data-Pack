@@ -1,0 +1,7 @@
+{
+	"type":"crafting_shapeless",
+	"ingredients":[
+		{"tag":"minecraft:wool"},
+		{"item":"minecraft:lapis_lazuli"}],
+	"result":{"item":"minecraft:blue_wool"}
+}

@@ -1,0 +1,10 @@
+{
+	"type":"crafting_shapeless",
+	"ingredients":[
+		{"tag":"customrecipes:coral_blocks"},
+		{"tag":"customrecipes:coral_blocks"},
+		{"tag":"customrecipes:coral_blocks"},
+		{"tag":"customrecipes:coral_blocks"}
+	],
+	"result":{"item":"minecraft:sponge","count":4}
+}

@@ -1,0 +1,9 @@
+{
+	"type":"crafting_shaped",
+	"pattern":["ttt","tdt","ttt"],
+	"key":{
+		"t":{"tag":"customrecipes:terracotta"},
+		"d":{"item":"minecraft:light_gray_dye"}
+	},
+	"result":{"item":"minecraft:light_gray_terracotta","count":8}
+}

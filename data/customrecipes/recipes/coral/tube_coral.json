@@ -1,0 +1,10 @@
+{
+	"type":"crafting_shapeless",
+	"ingredients":[
+		{"tag":"customrecipes:sponges"},
+		{"tag":"customrecipes:sponges"},
+		{"tag":"customrecipes:sponges"},
+		{"tag":"customrecipes:sponges"},
+		{"item":"minecraft:lapis_lazuli"}],
+	"result":{"item":"minecraft:tube_coral_block","count":4}
+}

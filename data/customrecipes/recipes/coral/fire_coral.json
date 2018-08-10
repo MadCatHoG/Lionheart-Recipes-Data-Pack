@@ -1,0 +1,10 @@
+{
+	"type":"crafting_shapeless",
+	"ingredients":[
+		{"tag":"customrecipes:sponges"},
+		{"tag":"customrecipes:sponges"},
+		{"tag":"customrecipes:sponges"},
+		{"tag":"customrecipes:sponges"},
+		{"item":"minecraft:rose_red"}],
+	"result":{"item":"minecraft:fire_coral_block","count":4}
+}

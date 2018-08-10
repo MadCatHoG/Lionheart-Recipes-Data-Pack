@@ -1,0 +1,9 @@
+{
+	"type":"crafting_shaped",
+	"pattern":["mmm","mwm","mmm"],
+	"key":{
+		"w":{"tag":"minecraft:wool"},
+		"m":{"item":"minecraft:phantom_membrane"}
+	},
+	"result":{"item":"minecraft:sponge","count":1}
+}
