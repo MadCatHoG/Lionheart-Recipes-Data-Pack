@@ -1,0 +1,8 @@
+{
+	"type":"crafting_shaped",
+	"pattern":["sss","sss"],
+	"key":{
+		"s":{"item":"minecraft:stone"}
+	},
+	"result":{"item":"minecraft:smooth_stone","count":6}
+}

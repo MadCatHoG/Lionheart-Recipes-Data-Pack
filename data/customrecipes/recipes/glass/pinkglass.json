@@ -2,7 +2,7 @@
 	"type":"crafting_shaped",
 	"pattern":["ttt","tdt","ttt"],
 	"key":{
-		"t":{"tag":"customrecipes:terracotta"},
+		"t":{"tag":"customrecipes:glass"},
 		"d":{"item":"minecraft:pink_dye"}
 	},
 	"result":{"item":"minecraft:pink_stained_glass","count":8}

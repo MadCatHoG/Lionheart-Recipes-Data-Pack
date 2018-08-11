@@ -1,9 +1,6 @@
 {
 	"type":"crafting_shaped",
-	"pattern":[
-		"sXs",
-		"mDm",
-		"mLm"],
+	"pattern":["sXs","mDm","mLm"],
 	"key":{
 		"s":{"item":"minecraft:string"},
 		"m":{"item":"minecraft:phantom_membrane"},
