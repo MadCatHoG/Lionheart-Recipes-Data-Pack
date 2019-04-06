@@ -3,7 +3,7 @@
 	"pattern":["ttt","tdt","ttt"],
 	"key":{
 		"t":{"tag":"customrecipes:glass"},
-		"d":{"item":"minecraft:rose_red"}
+		"d":{"item":"minecraft:red_dye"}
 	},
 	"result":{"item":"minecraft:red_stained_glass","count":8}
 }
