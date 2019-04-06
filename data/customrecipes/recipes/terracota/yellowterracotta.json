@@ -3,7 +3,7 @@
 	"pattern":["ttt","tdt","ttt"],
 	"key":{
 		"t":{"tag":"customrecipes:terracotta"},
-		"d":{"item":"minecraft:dandelion_yellow"}
+		"d":{"item":"minecraft:yellow_dye"}
 	},
 	"result":{"item":"minecraft:yellow_terracotta","count":8}
 }

@@ -3,7 +3,7 @@
 	"pattern":["ttt","tdt","ttt"],
 	"key":{
 		"t":{"tag":"customrecipes:glass"},
-		"d":{"item":"minecraft:dandelion_yellow"}
+		"d":{"item":"minecraft:yellow_dye"}
 	},
 	"result":{"item":"minecraft:yellow_stained_glass","count":8}
 }
